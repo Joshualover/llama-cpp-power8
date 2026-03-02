@@ -53,3 +53,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 Feel free to open an issue for any questions about contributing.
 
 Thank you for contributing!
+
+## Code of Conduct
+
+Please see CODE_OF_CONDUCT.md for behavioral guidelines.
